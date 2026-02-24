@@ -1,4 +1,4 @@
-package com;
+
 
 interface Area {
     double PI = 3.14;

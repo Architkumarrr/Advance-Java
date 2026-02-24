@@ -1,5 +1,12 @@
-package com.polymorphism;
+package polymorphism;
 
+public class PolyMain {
+    public static void main(String[] args) {
+        Animal dog=new Animal("Dog","Woof");
+        dog.getInfo();
+        dog.getInfo("Dog","Woof","4");
+    }
+}
 class Animal{
     String name;
     String sound;

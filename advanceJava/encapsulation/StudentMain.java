@@ -1,4 +1,4 @@
-package com.encapsulation;
+package encapsulation;
 
 import java.util.ArrayList;
 import java.util.Scanner;

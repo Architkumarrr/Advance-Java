@@ -1,5 +1,5 @@
-package com.mref;
 
+package mref;
 class Calculator{
     Calculator(){
         System.out.println("this is a constructor");
